@@ -3,7 +3,7 @@
 
 
 .bg-container {
-    background: /images/bgimg.jpg;
+    background-image: /images/bgimg.jpg;
     background-size: cover;
     height: 100vh;
 }
