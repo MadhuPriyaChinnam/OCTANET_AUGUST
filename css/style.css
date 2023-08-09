@@ -3,7 +3,7 @@
 
 
 .bg-container {
-    background-image: url("/images/bgimg.jpg");
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
     background-size: cover;
     height: 100vh;
 }
